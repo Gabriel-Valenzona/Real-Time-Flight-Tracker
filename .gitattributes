@@ -1,0 +1,2 @@
+#tells Git to automatically convert LF to CRLF when checking out code (on Windows) and convert CRLF back to LF when committing. 
+git config --global core.autocrlf true

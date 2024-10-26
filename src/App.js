@@ -1,3 +1,5 @@
+import React from "react"
+import MapComponent from './MapComponent';
 import logo from './logo.svg';
 import './App.css';
 
@@ -17,6 +19,7 @@ function App() {
         >
           Learn React
         </a>
+        <MapComponent />
       </header>
     </div>
   );
